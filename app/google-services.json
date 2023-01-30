@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700088834707",
+    "project_id": "fir-trabajo-a9a30",
+    "storage_bucket": "fir-trabajo-a9a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700088834707:android:c77f044d814f341e4d4b66",
+        "android_client_info": {
+          "package_name": "com.nicorodgon.comicut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700088834707-t33428km2mt3ha5t68v7q1r2ph3btad0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbauN8H0s1YDKLmOGmi1Rkh6nHJKqiFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700088834707-t33428km2mt3ha5t68v7q1r2ph3btad0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
