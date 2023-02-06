@@ -22,4 +22,10 @@
         android:name="com.nicorodgon.comicut.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/login"
+        android:name="com.nicorodgon.comicut.ui.ActivityResultLauncher"
+        android:label="Login"
+        tools:layout="@layout/activity_firebase_ui" />
 </navigation>
